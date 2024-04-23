@@ -169,7 +169,7 @@ public class Entries extends testBase.TestBase {
 		Thread.sleep(3000);
 		
 		//driver.findElement(By.name("Update Remark")).click();
-		driver.findElement(By.xpath("//span[contains(@ng-click, \"saveremarks();\")]")).click();	
+		//driver.findElement(By.xpath("//span[contains(@ng-click, \"saveremarks();\")]")).click();	
 		Thread.sleep(5000);
 		
 		
@@ -290,102 +290,5 @@ public class Entries extends testBase.TestBase {
 		
 	}
 	
-	/*
-	
-	
-	
-	
-	@Test (priority=12)
-	public void FooterOptions() throws Exception {
-		
-		Actions action = new Actions(driver);
-		action.sendKeys(Keys.PAGE_DOWN).build().perform();	
-		 
-		 Thread.sleep(1000);
-		action.sendKeys(Keys.PAGE_DOWN).build().perform();	
-		 
-		 Thread.sleep(1000);
-		driver.findElement(By.cssSelector("#admin > div.container > div:nth-child(2) > div.ecube_entries_div > div.table-responsive > div.panel.datagrid > div > div.datagrid-pager.pagination > table > tbody > tr > td:nth-child(1) > select")).click();
-		 
-		 Thread.sleep(1000); 
-		action.sendKeys(Keys.PAGE_DOWN).build().perform();	
-		 
-		 Thread.sleep(1000);
-		driver.findElement(By.cssSelector("#admin > div.container > div:nth-child(2) > div.ecube_entries_div > div.table-responsive > div.panel.datagrid > div > div.datagrid-pager.pagination > table > tbody > tr > td:nth-child(1) > select > option:nth-child(4)")).click();
-		 
-		 Thread.sleep(1000); 
-		action.sendKeys(Keys.PAGE_DOWN).build().perform();	
-		 
-		 Thread.sleep(1000);
-		driver.findElement(By.cssSelector("#admin > div.container > div:nth-child(2) > div.ecube_entries_div > div.table-responsive > div.panel.datagrid > div > div.datagrid-pager.pagination > table > tbody > tr > td:nth-child(4) > a > span > span.l-btn-icon.pagination-prev")).click();
-		 
-		 Thread.sleep(1000); 
-		driver.findElement(By.cssSelector("#admin > div.container > div:nth-child(2) > div.ecube_entries_div > div.table-responsive > div.panel.datagrid > div > div.datagrid-pager.pagination > table > tbody > tr > td:nth-child(10) > a > span > span.l-btn-icon.pagination-next")).click();
-		 
-		 Thread.sleep(1000); 
-		driver.findElement(By.cssSelector("#admin > div.container > div:nth-child(2) > div.ecube_entries_div > div.table-responsive > div.panel.datagrid > div > div.datagrid-pager.pagination > table > tbody > tr > td:nth-child(13) > a > span > span.l-btn-icon.pagination-load")).click();
-		 
-		 Thread.sleep(1000); 
-		action.sendKeys(Keys.PAGE_UP).build().perform();	
-		 
-		 Thread.sleep(1000);
-		action.sendKeys(Keys.PAGE_UP).build().perform();	
-		 
-		 Thread.sleep(1000);
-	}
-	
-	@Test (priority=13)
-	public void Filters() throws Exception {
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/input")).click();
-		 
-		 Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/input")).sendKeys("T");
-		 
-		 Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/a")).click();
-		 
-		 Thread.sleep(1000); 
-	    driver.findElement(By.cssSelector("body > div:nth-child(16) > div:nth-child(3) > div.menu-text")).click();
-	     
-	    Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/input")).click();
-		 
-		 Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/input")).sendKeys("Z");
-		 
-		 Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/a")).click();
-		 
-		 Thread.sleep(1000); 
-	    driver.findElement(By.cssSelector("body > div:nth-child(16) > div:nth-child(4) > div.menu-text")).click();
-	     
-	     Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/input")).click();
-		 
-		 Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/input")).sendKeys("X");
-		 
-		 Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/a")).click();
-		 
-		 Thread.sleep(1000); 
-	    driver.findElement(By.cssSelector("body > div:nth-child(16) > div:nth-child(5) > div.menu-text")).click();
-	     
-	     Thread.sleep(1000); 
-		driver.findElement(By.xpath(" *[@id=\"admin\"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/div[2]/div[1]/div/table/tbody/tr[2]/td[1]/div/a")).click();
-		 
-		 Thread.sleep(1000); 
-	    driver.findElement(By.cssSelector("body > div:nth-child(16) > div:nth-child(2) > div.menu-text")).click();
-	     
-	     Thread.sleep(1000); 
-	}
-	
-	*/
 
-		 /*@AfterClass()
-		public void closeApp()
-		{
-		driver.quit();
-		} 
-	*/
 }
