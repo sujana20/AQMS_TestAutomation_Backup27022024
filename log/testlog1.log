@@ -3184,3 +3184,53 @@
 2024-04-08 22:33:40,607 [main] INFO Frame1 - Screenshot Taken
 2024-04-08 22:34:00,761 [main] INFO Frame1 - Browser Closed
 2024-04-08 22:34:00,761 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-04-19 12:01:41,372 [main] INFO Frame1 - Logger Started
+2024-04-19 12:02:28,451 [main] INFO Frame1 - Chrome launched
+2024-04-19 12:02:53,799 [main] INFO Frame1 - url Loaded
+2024-04-19 12:02:53,954 [main] INFO Frame1 - maximized Browser window and added waits
+2024-04-19 12:02:54,476 [main] INFO Frame1 - Screenshot Taken
+2024-04-19 12:03:11,633 [main] INFO Frame1 - Video is visible
+2024-04-19 12:03:11,749 [main] INFO Frame1 - Screenshot Taken
+2024-04-19 12:03:14,769 [main] INFO Frame1 - Map visible
+2024-04-19 12:03:14,922 [main] INFO Frame1 - Screenshot Taken
+2024-04-19 12:03:17,956 [main] INFO Frame1 - Client names are visible
+2024-04-19 12:03:18,069 [main] INFO Frame1 - Screenshot Taken
+2024-04-19 12:03:22,141 [main] INFO Frame1 - About Us visible and it is clickable
+2024-04-19 12:03:25,182 [main] INFO Frame1 - Site Map visible and it is clickable
+2024-04-19 12:03:28,240 [main] INFO Frame1 - Report Abuse visible and it is clickable
+2024-04-19 12:03:31,282 [main] INFO Frame1 - Terms of Use visible and it is clickable
+2024-04-19 12:03:34,325 [main] INFO Frame1 - Privacy Policy visible and it is clickable
+2024-04-19 12:03:37,352 [main] INFO Frame1 - Visit Us visible
+2024-04-19 12:03:40,384 [main] INFO Frame1 - Call Us visible
+2024-04-19 12:03:43,442 [main] INFO Frame1 - Email Us visible
+2024-04-19 12:03:46,467 [main] INFO Frame1 - Facebook visible
+2024-04-19 12:03:46,498 [main] INFO Frame1 - Twitter visible
+2024-04-19 12:03:46,529 [main] INFO Frame1 - LinkedIn visible
+2024-04-19 12:03:49,673 [main] INFO Frame1 - Screenshot Taken
+2024-04-19 12:03:49,673 [main] INFO Frame1 - Footer working as expected
+2024-04-19 12:03:49,935 [main] INFO Frame1 - Browser Closed
+2024-04-19 12:03:49,935 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-04-19 12:47:15,212 [main] INFO Frame1 - Logger Started
+2024-04-19 12:49:34,801 [main] INFO Frame1 - Chrome launched
+2024-04-19 12:50:17,213 [main] INFO Frame1 - url Loaded
+2024-04-19 12:50:17,384 [main] INFO Frame1 - maximized Browser window and added waits
+2024-04-19 12:50:57,722 [main] INFO Frame1 - Browser Closed
+2024-04-19 12:50:57,722 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-04-19 12:53:42,810 [main] INFO Frame1 - Logger Started
+2024-04-19 12:54:33,916 [main] INFO Frame1 - Chrome launched
+2024-04-19 12:54:55,817 [main] INFO Frame1 - url Loaded
+2024-04-19 12:54:55,982 [main] INFO Frame1 - maximized Browser window and added waits
+2024-04-19 12:55:09,326 [main] INFO Frame1 - Browser Closed
+2024-04-19 12:55:09,326 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-04-19 12:57:18,421 [main] INFO Frame1 - Logger Started
+2024-04-19 12:59:50,943 [main] INFO Frame1 - Chrome launched
+2024-04-19 13:00:24,731 [main] INFO Frame1 - url Loaded
+2024-04-19 13:00:24,899 [main] INFO Frame1 - maximized Browser window and added waits
+2024-04-19 13:00:38,251 [main] INFO Frame1 - Browser Closed
+2024-04-19 13:00:38,251 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-04-19 13:43:21,231 [main] INFO Frame1 - Logger Started
+2024-04-19 13:44:09,574 [main] INFO Frame1 - Chrome launched
+2024-04-19 13:44:54,986 [main] INFO Frame1 - url Loaded
+2024-04-19 13:44:55,166 [main] INFO Frame1 - maximized Browser window and added waits
+2024-04-19 13:45:08,493 [main] INFO Frame1 - Browser Closed
+2024-04-19 13:45:08,495 [main] INFO Frame1 - Automation Suite Executed Successfully

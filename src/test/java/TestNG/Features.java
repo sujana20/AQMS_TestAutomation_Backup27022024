@@ -11,7 +11,7 @@ public class Features extends testBase.TestBase {
 		public void FeaturesPage() throws Exception {	
 		
 		driver.findElement(By.xpath("//a[contains(text(),'Features')]")).click();
-		takeScreenshot.save("AboutUs"); 
+		takeScreenshot.save("Features"); 
 			
 
         // Form Builder
