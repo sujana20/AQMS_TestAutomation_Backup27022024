@@ -40,18 +40,34 @@ public class Reports extends testBase.TestBase  {
         Actions actions = new Actions(driver);
 		actions.sendKeys(Keys.PAGE_DOWN).perform();
 		
-		WebElement report = driver.findElement(By.xpath("//div[2]/span[1]"));
+		WebElement report = driver.findElement(By.xpath("//div[1]/div[2]/span[1]"));
 		report.click();
-		report.click();
+		//report.click();
 		takeScreenshot.save("Reports");
 		logger.info("Reports view working as expected");
 		
 	}
 		
 		@Test (priority=2)
-		public void ReportsEdit() throws Exception {	
+		public void ReportsEdit() throws Exception {
 			
-			  driver.navigate().back();
+			
+			
+			loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
+			logger.info("Logged in Successfully");
+			
+			Thread.sleep(3000); 
+			driver.findElement(By.cssSelector("#listview")).click();
+			
+			Thread.sleep(5000);
+			driver.findElement(By.xpath("//a[@title=\" edit\"]")).click();
+			Thread.sleep(3000);
+			
+			driver.findElement(By.partialLinkText("Repor")).click();
+			logger.info("Reports Page is visible");
+			takeScreenshot.save("Reports");
+			Thread.sleep(3000);
+			
 			  WebElement hoverElement = driver.findElement(By.xpath("//div[contains(@class, 'report_list_item_form1')]"));
 				hoverElement.click();
 				logger.info("clicked on edit form");

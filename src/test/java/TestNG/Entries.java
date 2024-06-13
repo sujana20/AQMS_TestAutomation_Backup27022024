@@ -284,9 +284,9 @@ public class Entries extends testBase.TestBase {
 		driver.findElement(By.cssSelector("#widget-box-1 > div.widget-header > div > div:nth-child(1) > a:nth-child(3) > i")).click();	
 		Thread.sleep(2000); 
 		
-		driver.findElement(By.xpath("//input[@class='delentry testx3']")).click();
+		driver.findElement(By.xpath("//a[3]/i[1]")).click();
 		Thread.sleep(2000);
-		driver.findElement(By.xpath("//body/section[@id='admin']/section[@id='admin']/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]")).click();
+		driver.findElement(By.xpath("//button[contains(text(),'Yes')]")).click();
 		
 	}
 	

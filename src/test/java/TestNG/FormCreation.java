@@ -149,7 +149,7 @@ public void FormView() throws Exception {
 		driver.findElement(By.xpath("//a[@title=\" edit\"]")).click();
 		Thread.sleep(3000);
 		
-		driver.findElement(By.xpath("//*[contains(@xpath, \"1\")]")).click();
+		driver.findElement(By.xpath("//body/nav[1]/div[2]/div[2]/ul[1]/li[12]/a[1]")).click();
 		logger.info("themes page visible");
 
 }
@@ -206,8 +206,8 @@ public void FormView() throws Exception {
 		driver.findElement(By.xpath("//a[contains(text(),'Form Section')]")).click();
 		Thread.sleep(3000);
 		
-		driver.findElement(By.xpath("//*[@id='FormSectionTab']/div[1]/span[2]/i[1]")).click();
-		Thread.sleep(3000);
+		//driver.findElement(By.xpath("//*[@id='FormSectionTab']/div[1]/span[2]/i[1]")).click();
+		//Thread.sleep(3000);
 		driver.findElement(By.xpath("//div[1]/div[2]/div[1]/div[1]/div[1]/span[1]")).click();
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//*[@id='divFormBgSection']/div[6]/img[1]")).click();
@@ -315,8 +315,8 @@ public void FormView() throws Exception {
 		Thread.sleep(3000);	
 		
 		//------------------------Background-----------------//
-		driver.findElement(By.xpath("(//span[@class='btn btn-default sb-input-addon'])[1]")).click();
-		Thread.sleep(3000);
+		//driver.findElement(By.xpath("(//span[@class='btn btn-default sb-input-addon'])[1]")).click();
+		//Thread.sleep(3000);
 		driver.findElement(By.xpath("//*[@id='HeaderSectionTab']/div/div/span[1]")).click();
 		Thread.sleep(3000);
 

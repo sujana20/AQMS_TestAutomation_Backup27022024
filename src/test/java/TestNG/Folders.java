@@ -56,11 +56,11 @@ public class Folders extends testBase.TestBase {
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
 		
-		driver.findElement(By.xpath("//div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]")).click();
+		driver.findElement(By.xpath("//header[1]/ul[1]/li[6]/a[1]/span[1]")).click();
 		
-		driver.findElement(By.xpath("//*[@id='lv0']")).click();
+		driver.findElement(By.xpath("//input[contains(@class, 'icon-checkbox1')]")).click();
 		logger.info("Form selcted");
-		driver.findElement(By.xpath("//a[@id='dropdownMenu1']")).click();
+		driver.findElement(By.xpath("//*[@id='dropdownMenu1']")).click();
 		logger.info("clicked on Move Form");
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//li[4]/ul[1]/li[2]/a[1]")).click();
@@ -102,7 +102,7 @@ public class Folders extends testBase.TestBase {
 		driver.findElement(By.xpath("//a[1]/input[1]")).click();
 		Thread.sleep(2000);
 		
-		driver.findElement(By.xpath("//*[@id='lv0']")).click();
+		driver.findElement(By.xpath("//input[contains(@class, 'icon-checkbox1')]")).click();
 		logger.info("Form selcted");
 		
 		driver.findElement(By.xpath("//a[@id='dropdownMenu1']")).click();
