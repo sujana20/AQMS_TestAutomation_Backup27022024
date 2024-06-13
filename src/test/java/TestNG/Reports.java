@@ -76,8 +76,15 @@ public class Reports extends testBase.TestBase  {
 		        
 		        driver.findElement(By.xpath("//*[@id='rdlctrlReportOptionsummarybyFieldbyTimeRange']")).click();
 		        
-		        
-		
 	}
+		
+		@Test (priority=3)
+		public void NewReport() throws Exception {	
+			
+			driver.findElement(By.xpath("//a[contains(text(),'Reports')]")).click();
+			
+			
+			
+		}
 
 }

@@ -3234,3 +3234,102 @@
 2024-04-19 13:44:55,166 - Frame1 -INFO - maximized Browser window and added waits
 2024-04-19 13:45:08,493 - Frame1 -INFO - Browser Closed
 2024-04-19 13:45:08,495 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-01 12:29:56,649 - Frame1 -INFO - Logger Started
+2024-05-01 12:30:14,380 - Frame1 -INFO - Chrome launched
+2024-05-01 12:30:21,354 - Frame1 -INFO - url Loaded
+2024-05-01 12:30:21,467 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 12:31:12,642 - Frame1 -INFO - Logged in Successfully
+2024-05-01 12:31:19,380 - Frame1 -INFO - Browser Closed
+2024-05-01 12:31:19,381 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-01 13:43:23,794 - Frame1 -INFO - Logger Started
+2024-05-01 13:43:26,335 - Frame1 -INFO - Chrome launched
+2024-05-01 13:43:49,390 - Frame1 -INFO - url Loaded
+2024-05-01 13:43:49,509 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 13:44:51,096 - Frame1 -INFO - Logged in Successfully
+2024-05-01 13:45:29,372 - Frame1 -INFO - clcicked on FormSettings
+2024-05-01 13:45:29,685 - Frame1 -INFO - Browser Closed
+2024-05-01 13:45:31,026 - Frame1 -INFO - Chrome launched
+2024-05-01 13:45:40,243 - Frame1 -INFO - url Loaded
+2024-05-01 13:45:40,359 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 13:45:53,672 - Frame1 -INFO - Browser Closed
+2024-05-01 13:45:53,672 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-01 13:46:47,358 - Frame1 -INFO - Logger Started
+2024-05-01 13:46:50,429 - Frame1 -INFO - Chrome launched
+2024-05-01 13:47:02,220 - Frame1 -INFO - url Loaded
+2024-05-01 13:47:02,338 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 13:47:51,153 - Frame1 -INFO - Logged in Successfully
+2024-05-01 13:48:38,908 - Frame1 -INFO - clcicked on FormSettings
+2024-05-01 13:48:40,668 - Frame1 -INFO - Chrome launched
+2024-05-01 13:48:45,420 - Frame1 -INFO - url Loaded
+2024-05-01 13:48:45,556 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 13:48:58,600 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-01 13:49:57,062 - Frame1 -INFO - Logger Started
+2024-05-01 13:50:00,361 - Frame1 -INFO - Chrome launched
+2024-05-01 13:50:09,624 - Frame1 -INFO - url Loaded
+2024-05-01 13:50:09,809 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 13:51:04,129 - Frame1 -INFO - Logged in Successfully
+2024-05-01 13:51:22,991 - Frame1 -INFO - clcicked on FormSettings
+2024-05-01 13:51:24,944 - Frame1 -INFO - Chrome launched
+2024-05-01 13:51:25,788 - Frame1 -INFO - url Loaded
+2024-05-01 13:51:47,506 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 13:52:00,558 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-01 14:18:20,944 - Frame1 -INFO - Logger Started
+2024-05-01 14:18:23,093 - Frame1 -INFO - Chrome launched
+2024-05-01 14:18:26,991 - Frame1 -INFO - url Loaded
+2024-05-01 14:18:27,126 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 14:19:25,471 - Frame1 -INFO - Logged in Successfully
+2024-05-01 14:20:00,796 - Frame1 -INFO - clcicked on FormSettings
+2024-05-01 14:20:01,103 - Frame1 -INFO - Browser Closed
+2024-05-01 14:20:02,652 - Frame1 -INFO - Chrome launched
+2024-05-01 14:20:21,629 - Frame1 -INFO - url Loaded
+2024-05-01 14:20:21,721 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-01 14:21:21,376 - Frame1 -INFO - Logged in Successfully
+2024-05-01 14:21:51,066 - Frame1 -INFO - Browser Closed
+2024-05-01 14:21:51,066 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-08 14:58:18,673 - Frame1 -INFO - Logger Started
+2024-05-08 14:58:40,594 - Frame1 -INFO - Chrome launched
+2024-05-08 14:58:49,274 - Frame1 -INFO - url Loaded
+2024-05-08 14:58:49,454 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-08 14:59:38,739 - Frame1 -INFO - Logged in Successfully
+2024-05-08 14:59:54,315 - Frame1 -INFO - clcicked on Account Management
+2024-05-08 14:59:54,425 - Frame1 -INFO - Screenshot Taken
+2024-05-08 15:00:12,909 - Frame1 -INFO - Screenshot Taken
+2024-05-08 15:00:13,329 - Frame1 -INFO - Browser Closed
+2024-05-08 15:00:13,330 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-08 15:00:32,644 - Frame1 -INFO - Logger Started
+2024-05-08 15:00:58,637 - Frame1 -INFO - Chrome launched
+2024-05-08 15:01:10,509 - Frame1 -INFO - url Loaded
+2024-05-08 15:01:10,635 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-08 15:02:01,159 - Frame1 -INFO - Logged in Successfully
+2024-05-08 15:02:06,539 - Frame1 -INFO - clcicked on Account Management
+2024-05-08 15:02:06,673 - Frame1 -INFO - Screenshot Taken
+2024-05-08 15:02:25,194 - Frame1 -INFO - Screenshot Taken
+2024-05-08 15:02:28,508 - Frame1 -INFO - Browser Closed
+2024-05-08 15:02:28,509 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-08 15:34:22,639 - Frame1 -INFO - Logger Started
+2024-05-08 15:34:58,498 - Frame1 -INFO - Chrome launched
+2024-05-08 15:35:19,609 - Frame1 -INFO - url Loaded
+2024-05-08 15:35:19,719 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-08 15:36:14,911 - Frame1 -INFO - Logged in Successfully
+2024-05-08 15:36:30,370 - Frame1 -INFO - clcicked on User Management
+2024-05-08 15:36:30,496 - Frame1 -INFO - Screenshot Taken
+2024-05-08 15:36:46,901 - Frame1 -INFO - Browser Closed
+2024-05-08 15:36:46,901 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-08 15:37:20,988 - Frame1 -INFO - Logger Started
+2024-05-08 15:38:02,248 - Frame1 -INFO - Chrome launched
+2024-05-08 15:38:16,987 - Frame1 -INFO - url Loaded
+2024-05-08 15:38:17,093 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-08 15:39:11,542 - Frame1 -INFO - Logged in Successfully
+2024-05-08 15:39:28,083 - Frame1 -INFO - clcicked on User Management
+2024-05-08 15:39:28,223 - Frame1 -INFO - Screenshot Taken
+2024-05-08 15:39:32,640 - Frame1 -INFO - Browser Closed
+2024-05-08 15:39:32,641 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-05-08 15:41:10,210 - Frame1 -INFO - Logger Started
+2024-05-08 15:41:30,508 - Frame1 -INFO - Chrome launched
+2024-05-08 15:41:37,199 - Frame1 -INFO - url Loaded
+2024-05-08 15:41:37,315 - Frame1 -INFO - maximized Browser window and added waits
+2024-05-08 15:42:26,361 - Frame1 -INFO - Logged in Successfully
+2024-05-08 15:42:31,238 - Frame1 -INFO - clcicked on User Management
+2024-05-08 15:42:31,357 - Frame1 -INFO - Screenshot Taken
+2024-05-08 15:42:34,783 - Frame1 -INFO - Browser Closed
+2024-05-08 15:42:34,784 - Frame1 -INFO - Automation Suite Executed Successfully

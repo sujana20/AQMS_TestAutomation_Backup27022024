@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-
   <test thread-count="5" name="Test">
     <classes>
+      <class name="TestNG.Folders"/>
+      <class name="testBase.TestBase2"/>
+      <class name="TestNG.AboutUs"/>
+      <class name="TestNG.Reports"/>
+      <class name="TestNG.Login"/>
+      <class name="testBase.TestBase"/>
+      <class name="TestNG.FormSettings"/>
+      <class name="TestNG.Features"/>
+      <class name="TestNG.Account_Management"/>
+      <class name="TestNG.FormCreation"/>
+      <class name="utility.ExcelLoop"/>
+      <class name="TestNG.HomePage"/>
       <class name="TestNG.Entries"/>
+      <class name="TestNG.forgotPassword"/>
+      <class name="TestNG.GmailLogin"/>
+      <class name="TestNG.User_Management"/>
+      <class name="TestNG.Pricing"/>
+      <class name="TestNG.Languages"/>
+      <class name="TestNG.CascadingDropDown"/>
+      <class name="TestNG.Templates"/>
+      <class name="TestNG.Registration"/>
+      <class name="TestNG.ShareForm"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
-
-
-
-
