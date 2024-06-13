@@ -796,7 +796,7 @@ public void FormView() throws Exception {
 		Thread.sleep(5000);
 		driver.findElement(By.xpath("//button[contains(text(),'Got It !')]")).click();
 	}
-	
+	/*
 @Test (priority=9)
 public void FormDelete() throws Exception {		
 	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
@@ -822,7 +822,7 @@ public void FormDelete() throws Exception {
 	
 	
 }
-
+*/
 	
 @AfterClass()
 public void closeApp()

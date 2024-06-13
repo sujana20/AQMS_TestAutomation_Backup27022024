@@ -3855,3 +3855,315 @@
 2024-06-13 16:20:20,156 [main] INFO Frame1 - Screenshot Taken
 2024-06-13 16:20:37,984 [main] INFO Frame1 - Browser Closed
 2024-06-13 16:20:37,987 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 16:51:14,441 [main] INFO Frame1 - Logger Started
+2024-06-13 16:51:21,608 [main] INFO Frame1 - Chrome launched
+2024-06-13 16:53:39,374 [main] INFO Frame1 - Logger Started
+2024-06-13 16:53:47,037 [main] INFO Frame1 - Chrome launched
+2024-06-13 16:53:52,984 [main] INFO Frame1 - url Loaded
+2024-06-13 16:53:53,209 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 16:53:54,054 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:54:11,589 [main] INFO Frame1 - Video is visible
+2024-06-13 16:54:11,852 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:54:14,887 [main] INFO Frame1 - Map visible
+2024-06-13 16:54:15,052 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:54:18,125 [main] INFO Frame1 - Client names are visible
+2024-06-13 16:54:18,296 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:54:22,442 [main] INFO Frame1 - About Us visible and it is clickable
+2024-06-13 16:54:25,563 [main] INFO Frame1 - Site Map visible and it is clickable
+2024-06-13 16:54:28,642 [main] INFO Frame1 - Report Abuse visible and it is clickable
+2024-06-13 16:54:31,713 [main] INFO Frame1 - Terms of Use visible and it is clickable
+2024-06-13 16:54:34,816 [main] INFO Frame1 - Privacy Policy visible and it is clickable
+2024-06-13 16:54:37,883 [main] INFO Frame1 - Visit Us visible
+2024-06-13 16:54:40,954 [main] INFO Frame1 - Call Us visible
+2024-06-13 16:54:44,019 [main] INFO Frame1 - Email Us visible
+2024-06-13 16:54:47,076 [main] INFO Frame1 - Facebook visible
+2024-06-13 16:54:47,134 [main] INFO Frame1 - Twitter visible
+2024-06-13 16:54:47,203 [main] INFO Frame1 - LinkedIn visible
+2024-06-13 16:54:50,336 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:54:50,337 [main] INFO Frame1 - Footer working as expected
+2024-06-13 16:54:50,989 [main] INFO Frame1 - Browser Closed
+2024-06-13 16:54:50,990 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 16:54:50,994 [main] INFO Frame1 - Logger Started
+2024-06-13 16:54:53,136 [main] INFO Frame1 - Chrome launched
+2024-06-13 16:54:59,663 [main] INFO Frame1 - url Loaded
+2024-06-13 16:55:00,010 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 16:55:01,863 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:55:08,315 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:55:08,315 [main] INFO Frame1 - About US working as expected
+2024-06-13 16:55:09,685 [main] INFO Frame1 - Browser Closed
+2024-06-13 16:55:09,686 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 16:55:09,689 [main] INFO Frame1 - Logger Started
+2024-06-13 16:55:11,773 [main] INFO Frame1 - Chrome launched
+2024-06-13 16:55:18,793 [main] INFO Frame1 - url Loaded
+2024-06-13 16:55:18,979 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 16:55:33,955 [main] INFO Frame1 - Browser Closed
+2024-06-13 16:55:33,956 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 16:55:33,960 [main] INFO Frame1 - Logger Started
+2024-06-13 16:55:35,964 [main] INFO Frame1 - Chrome launched
+2024-06-13 16:55:44,698 [main] INFO Frame1 - url Loaded
+2024-06-13 16:55:44,931 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 16:55:52,107 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:56:36,247 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:56:36,248 [main] INFO Frame1 - Features working as expected
+2024-06-13 16:56:36,646 [main] INFO Frame1 - Browser Closed
+2024-06-13 16:56:36,647 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 16:56:36,653 [main] INFO Frame1 - Logger Started
+2024-06-13 16:56:39,081 [main] INFO Frame1 - Chrome launched
+2024-06-13 16:56:47,422 [main] INFO Frame1 - url Loaded
+2024-06-13 16:56:47,627 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 16:57:37,924 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 16:57:42,203 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:58:00,810 [main] INFO Frame1 - Name' control is added Successfully
+2024-06-13 16:58:12,361 [main] INFO Frame1 - Phone control added Successfully
+2024-06-13 16:58:15,712 [main] INFO Frame1 - EMail control added Successfully
+2024-06-13 16:58:19,987 [main] INFO Frame1 - Drop Down control added Successfully
+2024-06-13 16:58:28,316 [main] INFO Frame1 - Custom Controls  added Successfully
+2024-06-13 16:58:35,774 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 16:58:53,868 [main] INFO Frame1 - Browser Closed
+2024-06-13 16:58:55,933 [main] INFO Frame1 - Chrome launched
+2024-06-13 16:59:04,417 [main] INFO Frame1 - url Loaded
+2024-06-13 16:59:04,646 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 16:59:56,720 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:00:03,644 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:00:14,609 [main] INFO Frame1 - Form view successfull
+2024-06-13 17:00:15,370 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:00:18,921 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:00:22,740 [main] INFO Frame1 - url Loaded
+2024-06-13 17:00:22,957 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:01:14,166 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:01:18,371 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:01:44,648 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:01:46,449 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:01:56,276 [main] INFO Frame1 - url Loaded
+2024-06-13 17:01:56,428 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:02:46,744 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:02:50,952 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:03:12,171 [main] INFO Frame1 - themes page visible
+2024-06-13 17:03:21,801 [main] INFO Frame1 - Background Image Updated successfully
+2024-06-13 17:03:22,772 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:03:25,019 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:03:32,469 [main] INFO Frame1 - url Loaded
+2024-06-13 17:03:32,674 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:04:23,713 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:04:27,938 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:04:51,808 [main] INFO Frame1 - themes page visible
+2024-06-13 17:05:08,900 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:05:11,187 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:05:18,875 [main] INFO Frame1 - url Loaded
+2024-06-13 17:05:19,049 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:06:10,607 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:06:14,819 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:06:36,628 [main] INFO Frame1 - themes page visible
+2024-06-13 17:06:36,777 [main] INFO Frame1 - HeaderSection Section is visible
+2024-06-13 17:06:53,567 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:06:57,171 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:07:01,937 [main] INFO Frame1 - url Loaded
+2024-06-13 17:07:02,094 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:07:53,874 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:07:58,138 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:08:18,232 [main] INFO Frame1 - themes page visible
+2024-06-13 17:08:18,314 [main] INFO Frame1 - cliccked on Form Content Section
+2024-06-13 17:08:34,393 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:08:34,393 [main] INFO Frame1 - ContentSection Padding selected
+2024-06-13 17:08:36,607 [main] INFO Frame1 - ContentFontFamily selected
+2024-06-13 17:08:39,896 [main] INFO Frame1 - ContentFontSize selected
+2024-06-13 17:08:45,083 [main] INFO Frame1 - ContentFontWeight selected
+2024-06-13 17:08:50,396 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:08:58,621 [main] INFO Frame1 - ContentSection work as expected
+2024-06-13 17:08:59,259 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:09:00,987 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:09:01,683 [main] INFO Frame1 - url Loaded
+2024-06-13 17:09:06,827 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:09:57,052 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:10:01,207 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:10:22,557 [main] INFO Frame1 - themes page visible
+2024-06-13 17:10:25,682 [main] INFO Frame1 - FooterSection selected
+2024-06-13 17:10:28,916 [main] INFO Frame1 - FooterSectio height selected
+2024-06-13 17:10:34,164 [main] INFO Frame1 - FooterFontFamily selected
+2024-06-13 17:10:37,399 [main] INFO Frame1 - FooterFontSize selected
+2024-06-13 17:10:42,657 [main] INFO Frame1 - FooterFontWeight selected
+2024-06-13 17:10:47,926 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:10:56,088 [main] INFO Frame1 - Footer Section work as expected
+2024-06-13 17:10:56,724 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:10:58,493 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:10:59,187 [main] INFO Frame1 - url Loaded
+2024-06-13 17:11:06,677 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:11:57,766 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:12:02,005 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:12:26,652 [main] INFO Frame1 - themes page visible
+2024-06-13 17:12:26,740 [main] INFO Frame1 - LabelStyles selected
+2024-06-13 17:12:35,050 [main] INFO Frame1 - LabelStyles Family selected
+2024-06-13 17:12:38,294 [main] INFO Frame1 - Label FontSize selected
+2024-06-13 17:12:50,702 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:12:52,659 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:12:58,425 [main] INFO Frame1 - url Loaded
+2024-06-13 17:12:58,745 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:13:50,670 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:13:54,897 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:13:55,172 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:14:01,395 [main] INFO Frame1 - Form deleted successfuly
+2024-06-13 17:14:06,862 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:14:06,863 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:14:06,870 [main] INFO Frame1 - Logger Started
+2024-06-13 17:14:08,900 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:14:09,586 [main] INFO Frame1 - url Loaded
+2024-06-13 17:14:15,882 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:15:07,679 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:15:29,322 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:15:31,965 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:15:37,722 [main] INFO Frame1 - url Loaded
+2024-06-13 17:15:37,910 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:16:28,934 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:16:50,605 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:16:50,606 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:16:50,610 [main] INFO Frame1 - Logger Started
+2024-06-13 17:16:52,682 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:16:58,749 [main] INFO Frame1 - url Loaded
+2024-06-13 17:16:58,928 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:17:50,103 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:17:54,870 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:18:13,890 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:18:13,892 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:18:13,898 [main] INFO Frame1 - Logger Started
+2024-06-13 17:18:18,211 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:18:23,124 [main] INFO Frame1 - url Loaded
+2024-06-13 17:18:23,628 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:19:14,501 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:19:34,241 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:19:36,699 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:19:43,832 [main] INFO Frame1 - url Loaded
+2024-06-13 17:19:44,072 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:20:34,616 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:20:54,270 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:20:56,208 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:21:02,079 [main] INFO Frame1 - url Loaded
+2024-06-13 17:21:02,348 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:21:53,088 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:22:12,884 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:22:16,264 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:22:16,964 [main] INFO Frame1 - url Loaded
+2024-06-13 17:22:23,574 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:23:14,053 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:23:34,528 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:23:36,836 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:23:45,257 [main] INFO Frame1 - url Loaded
+2024-06-13 17:23:45,646 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:24:38,067 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:24:57,913 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:25:01,090 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:25:06,451 [main] INFO Frame1 - url Loaded
+2024-06-13 17:25:06,681 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:25:56,791 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:26:16,658 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:26:18,353 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:26:19,041 [main] INFO Frame1 - url Loaded
+2024-06-13 17:26:26,020 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:27:17,260 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:27:37,208 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:27:39,519 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:27:45,507 [main] INFO Frame1 - url Loaded
+2024-06-13 17:27:45,773 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:28:36,743 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:28:56,587 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:28:58,632 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:29:08,227 [main] INFO Frame1 - url Loaded
+2024-06-13 17:29:08,489 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:29:58,049 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:30:17,850 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:30:17,851 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:30:17,854 [main] INFO Frame1 - Logger Started
+2024-06-13 17:30:19,631 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:30:25,266 [main] INFO Frame1 - url Loaded
+2024-06-13 17:30:25,423 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:31:21,891 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:31:26,003 [main] INFO Frame1 - clicked on create folder
+2024-06-13 17:31:30,223 [main] INFO Frame1 - folder created
+2024-06-13 17:31:30,673 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:31:32,713 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:31:40,986 [main] INFO Frame1 - url Loaded
+2024-06-13 17:31:41,140 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:32:31,188 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:32:48,965 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:32:50,814 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:32:59,075 [main] INFO Frame1 - url Loaded
+2024-06-13 17:32:59,331 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:33:51,572 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:34:15,546 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:34:17,587 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:34:24,543 [main] INFO Frame1 - url Loaded
+2024-06-13 17:34:24,724 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:35:15,458 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:35:33,003 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:35:35,014 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:35:35,707 [main] INFO Frame1 - url Loaded
+2024-06-13 17:35:42,961 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:36:33,664 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:36:51,501 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:36:51,503 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:36:51,509 [main] INFO Frame1 - Logger Started
+2024-06-13 17:36:53,485 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:36:54,180 [main] INFO Frame1 - url Loaded
+2024-06-13 17:36:59,629 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:37:50,279 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:38:12,928 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:38:15,810 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:38:20,359 [main] INFO Frame1 - url Loaded
+2024-06-13 17:38:20,727 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:38:34,154 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:38:34,155 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:38:34,158 [main] INFO Frame1 - Logger Started
+2024-06-13 17:38:36,306 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:38:42,629 [main] INFO Frame1 - url Loaded
+2024-06-13 17:38:42,843 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:39:35,017 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:39:42,454 [main] INFO Frame1 - clcicked on Account Management
+2024-06-13 17:39:42,561 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:40:01,397 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:40:05,120 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:40:05,121 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:40:05,124 [main] INFO Frame1 - Logger Started
+2024-06-13 17:40:06,802 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:40:12,894 [main] INFO Frame1 - url Loaded
+2024-06-13 17:40:13,117 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:41:03,104 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:41:11,516 [main] INFO Frame1 - clcicked on User Management
+2024-06-13 17:41:11,612 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:41:15,135 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:41:15,136 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:41:15,138 [main] INFO Frame1 - Logger Started
+2024-06-13 17:41:17,272 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:41:23,377 [main] INFO Frame1 - url Loaded
+2024-06-13 17:41:23,530 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:41:25,555 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:41:25,556 [main] INFO Frame1 - PricingPage displayed
+2024-06-13 17:41:30,608 [main] INFO Frame1 - Plans & Pricing heading is present
+2024-06-13 17:41:30,734 [main] INFO Frame1 - Toggle button is present
+2024-06-13 17:41:33,766 [main] INFO Frame1 - Upgrade buttons are present
+2024-06-13 17:41:35,287 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:41:35,288 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-06-13 17:41:35,290 [main] INFO Frame1 - Logger Started
+2024-06-13 17:41:37,395 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:41:41,836 [main] INFO Frame1 - url Loaded
+2024-06-13 17:41:42,191 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:42:33,756 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:42:38,005 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:42:51,526 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:42:53,798 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:43:01,649 [main] INFO Frame1 - url Loaded
+2024-06-13 17:43:01,867 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:43:52,740 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:43:56,930 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:44:10,583 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:44:12,766 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:44:19,099 [main] INFO Frame1 - url Loaded
+2024-06-13 17:44:19,463 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:45:12,077 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:45:16,336 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:45:29,802 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:45:32,402 [main] INFO Frame1 - Chrome launched
+2024-06-13 17:45:39,358 [main] INFO Frame1 - url Loaded
+2024-06-13 17:45:39,519 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 17:46:29,958 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 17:46:34,146 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 17:46:47,776 [main] INFO Frame1 - Browser Closed
+2024-06-13 17:46:47,777 [main] INFO Frame1 - Automation Suite Executed Successfully

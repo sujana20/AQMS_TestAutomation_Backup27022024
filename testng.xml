@@ -9,6 +9,7 @@
 		 <class name="TestNG.Templates"/>
 		 <class name="TestNG.Features"/>
 		<class name="TestNG.FormCreation"/>
+		<class name="TestNG.Languages"/> 
 		 <class name="TestNG.FormSettings"/>
 		  <class name="TestNG.ShareForm"/>
 		<class name="TestNG.Entries"/>
@@ -18,7 +19,7 @@
       <class name="TestNG.Account_Management"/>             
       <class name="TestNG.User_Management"/>
       <class name="TestNG.Pricing"/>
-      <class name="TestNG.Languages"/>    
+         
       
     </classes>
   </test> <!-- Test -->

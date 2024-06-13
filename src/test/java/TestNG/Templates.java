@@ -12,7 +12,7 @@ public class Templates extends testBase.TestBase {
 	@Test (priority=1)
 		public void TemplatesPage() throws Exception {	
 		
-		driver.findElement(By.xpath("//li[@id='Templates']")).click();
+		driver.findElement(By.xpath("//a[contains(text(),'Themes')]")).click();
 		takeScreenshot.save("templates"); 
 		
 	   
