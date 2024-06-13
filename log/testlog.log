@@ -3344,3 +3344,36 @@
 2024-06-13 12:14:21,330 - Frame1 -INFO - Screenshot Taken
 2024-06-13 12:14:24,422 - Frame1 -INFO - Client names are visible
 2024-06-13 12:14:24,637 - Frame1 -INFO - Screenshot Taken
+2024-06-13 12:18:55,308 - Frame1 -INFO - Logger Started
+2024-06-13 12:18:59,907 - Frame1 -INFO - Chrome launched
+2024-06-13 12:19:05,359 - Frame1 -INFO - url Loaded
+2024-06-13 12:19:05,570 - Frame1 -INFO - maximized Browser window and added waits
+2024-06-13 12:19:55,208 - Frame1 -INFO - Logged in Successfully
+2024-06-13 12:19:59,314 - Frame1 -INFO - clicked on create folder
+2024-06-13 12:20:03,564 - Frame1 -INFO - folder created
+2024-06-13 12:20:04,009 - Frame1 -INFO - Browser Closed
+2024-06-13 12:20:06,137 - Frame1 -INFO - Chrome launched
+2024-06-13 12:20:12,391 - Frame1 -INFO - url Loaded
+2024-06-13 12:20:12,542 - Frame1 -INFO - maximized Browser window and added waits
+2024-06-13 12:21:05,354 - Frame1 -INFO - Logged in Successfully
+2024-06-13 12:21:13,417 - Frame1 -INFO - Browser Closed
+2024-06-13 12:21:15,317 - Frame1 -INFO - Chrome launched
+2024-06-13 12:21:23,495 - Frame1 -INFO - url Loaded
+2024-06-13 12:21:23,727 - Frame1 -INFO - maximized Browser window and added waits
+2024-06-13 12:22:16,552 - Frame1 -INFO - Logged in Successfully
+2024-06-13 12:22:36,888 - Frame1 -INFO - Browser Closed
+2024-06-13 12:22:38,985 - Frame1 -INFO - Chrome launched
+2024-06-13 12:22:45,238 - Frame1 -INFO - url Loaded
+2024-06-13 12:22:45,515 - Frame1 -INFO - maximized Browser window and added waits
+2024-06-13 12:23:35,290 - Frame1 -INFO - Logged in Successfully
+2024-06-13 12:23:54,902 - Frame1 -INFO - Browser Closed
+2024-06-13 12:23:56,905 - Frame1 -INFO - Chrome launched
+2024-06-13 12:24:04,373 - Frame1 -INFO - url Loaded
+2024-06-13 12:24:04,554 - Frame1 -INFO - maximized Browser window and added waits
+2024-06-13 12:24:55,426 - Frame1 -INFO - Logged in Successfully
+2024-06-13 12:25:15,096 - Frame1 -INFO - Browser Closed
+2024-06-13 12:25:17,221 - Frame1 -INFO - Chrome launched
+2024-06-13 12:25:21,865 - Frame1 -INFO - url Loaded
+2024-06-13 12:25:22,140 - Frame1 -INFO - maximized Browser window and added waits
+2024-06-13 12:26:12,829 - Frame1 -INFO - Logged in Successfully
+2024-06-13 12:26:20,213 - Frame1 -INFO - clicked on delete folder

@@ -3,18 +3,17 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+		<class name="TestNG.Login"/>
+		<class name="TestNG.HomePage"/>
+		<class name="TestNG.AboutUs"/>
       <class name="TestNG.Folders"/>
-      <class name="testBase.TestBase2"/>
-      <class name="TestNG.AboutUs"/>
-      <class name="TestNG.Reports"/>
-      <class name="TestNG.Login"/>
+      <class name="TestNG.Reports"/>     
       <class name="testBase.TestBase"/>
       <class name="TestNG.FormSettings"/>
       <class name="TestNG.Features"/>
       <class name="TestNG.Account_Management"/>
       <class name="TestNG.FormCreation"/>
-      <class name="utility.ExcelLoop"/>
-      <class name="TestNG.HomePage"/>
+      <class name="utility.ExcelLoop"/>    
       <class name="TestNG.Entries"/>
       <class name="TestNG.forgotPassword"/>
       <class name="TestNG.GmailLogin"/>

@@ -3344,3 +3344,36 @@
 2024-06-13 12:14:21,330 [main] INFO Frame1 - Screenshot Taken
 2024-06-13 12:14:24,422 [main] INFO Frame1 - Client names are visible
 2024-06-13 12:14:24,637 [main] INFO Frame1 - Screenshot Taken
+2024-06-13 12:18:55,308 [main] INFO Frame1 - Logger Started
+2024-06-13 12:18:59,907 [main] INFO Frame1 - Chrome launched
+2024-06-13 12:19:05,359 [main] INFO Frame1 - url Loaded
+2024-06-13 12:19:05,570 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 12:19:55,208 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 12:19:59,314 [main] INFO Frame1 - clicked on create folder
+2024-06-13 12:20:03,564 [main] INFO Frame1 - folder created
+2024-06-13 12:20:04,009 [main] INFO Frame1 - Browser Closed
+2024-06-13 12:20:06,137 [main] INFO Frame1 - Chrome launched
+2024-06-13 12:20:12,391 [main] INFO Frame1 - url Loaded
+2024-06-13 12:20:12,542 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 12:21:05,354 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 12:21:13,417 [main] INFO Frame1 - Browser Closed
+2024-06-13 12:21:15,317 [main] INFO Frame1 - Chrome launched
+2024-06-13 12:21:23,495 [main] INFO Frame1 - url Loaded
+2024-06-13 12:21:23,727 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 12:22:16,552 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 12:22:36,888 [main] INFO Frame1 - Browser Closed
+2024-06-13 12:22:38,985 [main] INFO Frame1 - Chrome launched
+2024-06-13 12:22:45,238 [main] INFO Frame1 - url Loaded
+2024-06-13 12:22:45,515 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 12:23:35,290 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 12:23:54,902 [main] INFO Frame1 - Browser Closed
+2024-06-13 12:23:56,905 [main] INFO Frame1 - Chrome launched
+2024-06-13 12:24:04,373 [main] INFO Frame1 - url Loaded
+2024-06-13 12:24:04,554 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 12:24:55,426 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 12:25:15,096 [main] INFO Frame1 - Browser Closed
+2024-06-13 12:25:17,221 [main] INFO Frame1 - Chrome launched
+2024-06-13 12:25:21,865 [main] INFO Frame1 - url Loaded
+2024-06-13 12:25:22,140 [main] INFO Frame1 - maximized Browser window and added waits
+2024-06-13 12:26:12,829 [main] INFO Frame1 - Logged in Successfully
+2024-06-13 12:26:20,213 [main] INFO Frame1 - clicked on delete folder
