@@ -10,7 +10,7 @@ public class Account_Management extends testBase.TestBase {
 	@Test (priority=1)
 	public void formSettings() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		
 		driver.findElement(By.xpath("//*[@id='headerDropdown']/a/span[1]")).click();
@@ -41,7 +41,7 @@ public class Account_Management extends testBase.TestBase {
 		dropdownUsers.click();
 		Thread.sleep(2000);
 		Select dropdownAllUser  = new Select(dropdownUsers);
-		dropdownAllUser.selectByVisibleText("test190324@yopmail.com");
+		dropdownAllUser.selectByVisibleText("vardhaman13@yopmail.com");
 		Thread.sleep(3000);
 		
 		//Get Records

@@ -21,7 +21,7 @@ public class forgotPassword extends testBase.TestBase {
 	
 	WebElement ForgotPassword = driver.findElement(By.xpath("//input[@id='LoginName']"));
 	ForgotPassword.click();
-	ForgotPassword.sendKeys("test190324@yopmail.com");
+	ForgotPassword.sendKeys("vardhaman13@yopmail.com");
 	
 	driver.findElement(By.xpath("//div/button[@type='submit']")).click();
 	

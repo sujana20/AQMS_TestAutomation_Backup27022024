@@ -1,101 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+<testng-results ignored="9" total="10" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-08T15:41:10 IST" name="Default suite" finished-at="2024-05-08T15:42:34 IST" duration-ms="84653">
+  <suite started-at="2024-06-13T16:18:14 IST" name="Default suite" finished-at="2024-06-13T16:20:37 IST" duration-ms="143468">
     <groups>
     </groups>
-    <test started-at="2024-05-08T15:41:10 IST" name="Default test" finished-at="2024-05-08T15:42:34 IST" duration-ms="84653">
-      <class name="TestNG.User_Management">
-        <test-method is-config="true" signature="start()[pri:0, instance:TestNG.User_Management@64b73e7a]" started-at="2024-05-08T15:41:10 IST" name="start" finished-at="2024-05-08T15:41:10 IST" duration-ms="66" status="PASS">
+    <test started-at="2024-06-13T16:18:14 IST" name="Default test" finished-at="2024-06-13T16:20:37 IST" duration-ms="143468">
+      <class name="TestNG.FormCreation">
+        <test-method is-config="true" signature="start()[pri:0, instance:TestNG.FormCreation@33d512c1]" started-at="2024-06-13T16:18:14 IST" name="start" finished-at="2024-06-13T16:18:14 IST" duration-ms="232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG.User_Management@64b73e7a]" started-at="2024-05-08T15:41:10 IST" name="setUp" finished-at="2024-05-08T15:41:37 IST" duration-ms="27114" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG.FormCreation@33d512c1]" started-at="2024-06-13T16:18:14 IST" name="setUp" finished-at="2024-06-13T16:18:28 IST" duration-ms="13698" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="formSettings()[pri:1, instance:TestNG.User_Management@64b73e7a]" started-at="2024-05-08T15:41:37 IST" name="formSettings" finished-at="2024-05-08T15:42:34 IST" duration-ms="57104" status="FAIL">
-          <exception class="org.openqa.selenium.JavascriptException">
-            <message>
-              <![CDATA[javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //a[@id=\\\"upfile1\\\"] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[@id=\\\"upfile1\\\"]' is not a valid XPath expression."}
-  (Session info: chrome=124.0.6367.119)
-Build info: version: '4.3.0', revision: 'a4995e2c09*'
-System info: host: 'ISTHYDPC66', ip: '192.168.1.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [9573e9ee5eea1c96944e67e2eb44eab6, findElement {using=xpath, value=//a[@id=\"upfile1\"]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 124.0.6367.155 (df4f029328b..., userDataDir: C:\Users\VARDHA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51119}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51119/devtoo..., se:cdpVersion: 124.0.6367.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 9573e9ee5eea1c96944e67e2eb44eab6]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.JavascriptException: javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //a[@id=\\\"upfile1\\\"] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[@id=\\\"upfile1\\\"]' is not a valid XPath expression."}
-  (Session info: chrome=124.0.6367.119)
-Build info: version: '4.3.0', revision: 'a4995e2c09*'
-System info: host: 'ISTHYDPC66', ip: '192.168.1.100', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [9573e9ee5eea1c96944e67e2eb44eab6, findElement {using=xpath, value=//a[@id=\"upfile1\"]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 124.0.6367.155 (df4f029328b..., userDataDir: C:\Users\VARDHA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51119}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51119/devtoo..., se:cdpVersion: 124.0.6367.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 9573e9ee5eea1c96944e67e2eb44eab6
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:387)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:379)
-at TestNG.User_Management.formSettings(User_Management.java:27)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:819)
-at org.testng.TestRunner.run(TestRunner.java:619)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
-at org.testng.TestNG.runSuites(TestNG.java:1134)
-at org.testng.TestNG.run(TestNG.java:1101)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.JavascriptException -->
+        <test-method signature="CreateForm()[pri:1, instance:TestNG.FormCreation@33d512c1]" started-at="2024-06-13T16:18:28 IST" name="CreateForm" finished-at="2024-06-13T16:20:37 IST" duration-ms="128974" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- formSettings -->
-        <test-method is-config="true" signature="TakeDown()[pri:0, instance:TestNG.User_Management@64b73e7a]" started-at="2024-05-08T15:42:34 IST" name="TakeDown" finished-at="2024-05-08T15:42:34 IST" duration-ms="337" status="PASS">
+        </test-method> <!-- CreateForm -->
+        <test-method is-config="true" signature="TakeDown()[pri:0, instance:TestNG.FormCreation@33d512c1]" started-at="2024-06-13T16:20:37 IST" name="TakeDown" finished-at="2024-06-13T16:20:37 IST" duration-ms="505" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TakeDown -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:TestNG.User_Management@64b73e7a]" started-at="2024-05-08T15:42:34 IST" name="stop" finished-at="2024-05-08T15:42:34 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.FormCreation@33d512c1]" started-at="2024-06-13T16:20:37 IST" name="closeApp" finished-at="2024-06-13T16:20:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:TestNG.FormCreation@33d512c1]" started-at="2024-06-13T16:20:37 IST" name="stop" finished-at="2024-06-13T16:20:37 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stop -->
-      </class> <!-- TestNG.User_Management -->
+      </class> <!-- TestNG.FormCreation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

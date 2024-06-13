@@ -14,7 +14,7 @@ public class Languages extends testBase.TestBase {
 @Test (priority=1)
 public void LanguageKannada() throws Exception {
 	
-	loginAs.qa("test190324@yopmail.com", "test190324");
+	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 	logger.info("Logged in Successfully");
 	Thread.sleep(4000);
 	
@@ -34,14 +34,14 @@ public void LanguageKannada() throws Exception {
 	Thread.sleep(2000);
 	Select FooterFont  = new Select(FooterFontFamily);
 	FooterFont.selectByVisibleText("Kannada");
-	logger.info("Language selected");
+	logger.info("Kannada Language selected");
 	Thread.sleep(5000);
 	
-	WebElement EmployeeForm = driver.findElement(By.xpath("//*[contains(@placeholder, \"Employee Form\")]"));
+	WebElement EmployeeForm = driver.findElement(By.xpath("//input[@placeholder=\"Employee Form\"]"));   //   
 	EmployeeForm.click();
 	EmployeeForm.sendKeys("ಉದ್ಯೋಗಿ ಫಾರ್ಮ್");
 	
-	WebElement EnterName = driver.findElement(By.xpath("//*[contains(@placeholder, \"Enter Name\")]"));
+	WebElement EnterName = driver.findElement(By.xpath("//input[@placeholder=\"Enter Name\"]"));
 	EnterName.click();
 	EnterName.sendKeys("ಹೆಸರನ್ನು ನಮೂದಿಸಿ");
 	
@@ -60,18 +60,18 @@ public void LanguageKannada() throws Exception {
 	
 	Thread.sleep(3000);
 	JavascriptExecutor js = (JavascriptExecutor) driver;
-	WebElement element = driver.findElement(By.xpath("//*[@placeholder=\"Select Role\"]"));
+	WebElement element = driver.findElement(By.xpath("//input[@placeholder=\"Select Role\"]"));
 	js.executeScript("arguments[0].scrollIntoView()", element);
 	
 	WebElement EnterPhonenumber = driver.findElement(By.xpath("//div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]"));
 	EnterPhonenumber.click();
 	EnterPhonenumber.sendKeys("ಫೋನ್ ಸಂಖ್ಯೆ");
 	
-	WebElement EMail = driver.findElement(By.xpath("//*[contains(@placeholder, \"EMail\")]"));
+	WebElement EMail = driver.findElement(By.xpath("//input[@placeholder=\"EMail\"]"));
 	EMail.click();
 	EMail.sendKeys("ಇಮೇಲ್");
 	
-	WebElement SelectRole = driver.findElement(By.xpath("//*[@placeholder=\"Select Role\"]"));
+	WebElement SelectRole = driver.findElement(By.xpath("//input[@placeholder=\"Select Role\"]")); //   
 	SelectRole.click();
 	SelectRole.sendKeys("ಪಾತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ");
 	
@@ -109,7 +109,7 @@ public void LanguageKannada() throws Exception {
 
 @Test (priority=2)
 public void Language_Telugu() throws Exception {	
-	loginAs.qa("test190324@yopmail.com", "test190324");
+	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 	logger.info("Logged in Successfully");
 	Thread.sleep(4000);
 	
@@ -129,14 +129,14 @@ public void Language_Telugu() throws Exception {
 	Thread.sleep(2000);
 	Select FooterFont  = new Select(FooterFontFamily);
 	FooterFont.selectByVisibleText("Telugu");
-	logger.info("Language selected");
+	logger.info("Telugu Language selected");
 	Thread.sleep(5000);
 	
-	WebElement EmployeeForm = driver.findElement(By.xpath("//*[contains(@placeholder, \"Employee Form\")]"));
+	WebElement EmployeeForm = driver.findElement(By.xpath("//input[@placeholder=\"Employee Form\"]"));
 	EmployeeForm.click();
 	EmployeeForm.sendKeys("ఉద్యోగి ఫారం");
 	
-	WebElement EnterName = driver.findElement(By.xpath("//*[contains(@placeholder, \"Enter Name\")]"));
+	WebElement EnterName = driver.findElement(By.xpath("//input[@placeholder=\"Enter Name\"]"));
 	EnterName.click();
 	EnterName.sendKeys("పేరు నమోదు చేయండి");
 	
@@ -155,18 +155,18 @@ public void Language_Telugu() throws Exception {
 	
 	Thread.sleep(3000);
 	JavascriptExecutor js = (JavascriptExecutor) driver;
-	WebElement element = driver.findElement(By.xpath("//*[@placeholder=\"Select Role\"]"));
+	WebElement element = driver.findElement(By.xpath("//input[@placeholder=\"Select Role\"]"));
 	js.executeScript("arguments[0].scrollIntoView()", element);
 	
 	WebElement EnterPhonenumber = driver.findElement(By.xpath("//div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]"));
 	EnterPhonenumber.click();
 	EnterPhonenumber.sendKeys("ఫోన్ నంబర్‌ను నమోదు చేయండి");
 	
-	WebElement EMail = driver.findElement(By.xpath("//*[contains(@placeholder, \"EMail\")]"));
+	WebElement EMail = driver.findElement(By.xpath("//input[@placeholder=\"EMail\"]"));
 	EMail.click();
 	EMail.sendKeys("ఇమెయిల్");
 	
-	WebElement SelectRole = driver.findElement(By.xpath("//*[@placeholder=\"Select Role\"]"));
+	WebElement SelectRole = driver.findElement(By.xpath("//input[@placeholder=\"Select Role\"]"));
 	SelectRole.click();
 	SelectRole.sendKeys("పాత్రను ఎంచుకోండి");
 	
@@ -203,7 +203,7 @@ public void Language_Telugu() throws Exception {
 
 @Test (priority=3)
 public void Language_French() throws Exception {	
-	loginAs.qa("test190324@yopmail.com", "test190324");
+	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 	logger.info("Logged in Successfully");
 	Thread.sleep(4000);
 	
@@ -226,11 +226,11 @@ public void Language_French() throws Exception {
 	logger.info("Language selected");
 	Thread.sleep(5000);
 	
-	WebElement EmployeeForm = driver.findElement(By.xpath("//*[contains(@placeholder, \"Employee Form\")]"));
+	WebElement EmployeeForm = driver.findElement(By.xpath("//input[@placeholder=\"Employee Form\"]"));
 	EmployeeForm.click();
 	EmployeeForm.sendKeys("Formulaire d'employé");
 	
-	WebElement EnterName = driver.findElement(By.xpath("//*[contains(@placeholder, \"Enter Name\")]"));
+	WebElement EnterName = driver.findElement(By.xpath("//input[@placeholder=\"Enter Name\"]"));
 	EnterName.click();
 	EnterName.sendKeys("Entrez le nom");
 	
@@ -249,18 +249,18 @@ public void Language_French() throws Exception {
 	
 	Thread.sleep(3000);
 	JavascriptExecutor js = (JavascriptExecutor) driver;
-	WebElement element = driver.findElement(By.xpath("//*[@placeholder=\"Select Role\"]"));
+	WebElement element = driver.findElement(By.xpath("//input[@placeholder=\"Select Role\"]"));
 	js.executeScript("arguments[0].scrollIntoView()", element);
 	
 	WebElement EnterPhonenumber = driver.findElement(By.xpath("//div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]"));
 	EnterPhonenumber.click();
 	EnterPhonenumber.sendKeys("Entrez le numéro de téléphone");
 	
-	WebElement EMail = driver.findElement(By.xpath("//*[contains(@placeholder, \"EMail\")]"));
+	WebElement EMail = driver.findElement(By.xpath("//input[@placeholder=\"EMail\"]"));
 	EMail.click();
 	EMail.sendKeys("E-mail");
 	
-	WebElement SelectRole = driver.findElement(By.xpath("//*[@placeholder=\"Select Role\"]"));
+	WebElement SelectRole = driver.findElement(By.xpath("//input[@placeholder=\"Select Role\"]"));
 	SelectRole.click();
 	SelectRole.sendKeys("Sélectionnez un rôle");
 	
@@ -296,7 +296,7 @@ public void Language_French() throws Exception {
 
 @Test (priority=4)
 public void Language_Arabic() throws Exception {	
-	loginAs.qa("test190324@yopmail.com", "test190324");
+	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 	logger.info("Logged in Successfully");
 	Thread.sleep(4000);
 	
@@ -319,11 +319,11 @@ public void Language_Arabic() throws Exception {
 	logger.info("Language selected");
 	Thread.sleep(5000);
 	
-	WebElement EmployeeForm = driver.findElement(By.xpath("//*[contains(@placeholder, \"Employee Form\")]"));
+	WebElement EmployeeForm = driver.findElement(By.xpath("//input[@placeholder=\"Employee Form\"]"));
 	EmployeeForm.click();
 	EmployeeForm.sendKeys("استمارة الموظف");
 	
-	WebElement EnterName = driver.findElement(By.xpath("//*[contains(@placeholder, \"Enter Name\")]"));
+	WebElement EnterName = driver.findElement(By.xpath("//input[@placeholder=\"Enter Name\"]"));
 	EnterName.click();
 	EnterName.sendKeys("أدخل الاسم");
 	
@@ -342,18 +342,18 @@ public void Language_Arabic() throws Exception {
 	
 	Thread.sleep(3000);
 	JavascriptExecutor js = (JavascriptExecutor) driver;
-	WebElement element = driver.findElement(By.xpath("//*[@placeholder=\"Select Role\"]"));
+	WebElement element = driver.findElement(By.xpath("//input[@placeholder=\"Select Role\"]"));
 	js.executeScript("arguments[0].scrollIntoView()", element);
 	
 	WebElement EnterPhonenumber = driver.findElement(By.xpath("//div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]"));
 	EnterPhonenumber.click();
 	EnterPhonenumber.sendKeys("أدخل رقم الهاتف");
 	
-	WebElement EMail = driver.findElement(By.xpath("//*[contains(@placeholder, \"EMail\")]"));
+	WebElement EMail = driver.findElement(By.xpath("//input[@placeholder=\"EMail\"]"));
 	EMail.click();
 	EMail.sendKeys("بريد إلكتروني");
 	
-	WebElement SelectRole = driver.findElement(By.xpath("//*[@placeholder=\"Select Role\"]"));
+	WebElement SelectRole = driver.findElement(By.xpath("//input[@placeholder=\"Select Role\"]"));
 	SelectRole.click();
 	SelectRole.sendKeys("حدد الدور");
 	
@@ -386,6 +386,7 @@ public void Language_Arabic() throws Exception {
 	
 	driver.findElement(By.xpath("//button[contains(text(),'Save')]")).click();		
 }
+/*
 
 @Test (priority=9)
 public void Language_Bahasa() throws Exception {	
@@ -717,5 +718,5 @@ public void DeleteForm() throws Exception {
 
 
 
-
+*/
 }

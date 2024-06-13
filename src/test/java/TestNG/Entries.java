@@ -15,7 +15,7 @@ public class Entries extends testBase.TestBase {
 	@Test (priority=1)
 	public void EntriesRedirection() throws Exception {		
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		
@@ -30,7 +30,7 @@ public class Entries extends testBase.TestBase {
 	@Test (priority=2)
 	public void NewEntryCreation() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		
@@ -82,7 +82,7 @@ public class Entries extends testBase.TestBase {
 	@Test (priority=3)
 	public void SelectFields() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		
@@ -118,7 +118,7 @@ public class Entries extends testBase.TestBase {
 	@Test (priority=4)
 	public void EntryView() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		
@@ -139,7 +139,7 @@ public class Entries extends testBase.TestBase {
 	
 	@Test (priority=5)
 	public void Remarks() throws Exception {
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		
@@ -178,7 +178,7 @@ public class Entries extends testBase.TestBase {
 	@Test (priority=6)
 	public void EmailEntry() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		
@@ -225,7 +225,7 @@ public class Entries extends testBase.TestBase {
 	
 	@Test (priority=8)
 	public void EntryPrint() throws Exception {
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		
@@ -256,7 +256,7 @@ public class Entries extends testBase.TestBase {
 
 	@Test (priority=9)
 	public void ExportToExcel() throws Exception {
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		
@@ -274,7 +274,7 @@ public class Entries extends testBase.TestBase {
 	
 	@Test (priority=10)
 	public void EntryDelete() throws Exception {
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath(" span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		

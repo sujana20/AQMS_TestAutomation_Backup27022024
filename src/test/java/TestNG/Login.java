@@ -25,9 +25,9 @@ WebDriver driver;
 		//------------------------------------------------------------------------//
 
 		driver.findElement(By.xpath("//header/nav[1]/div[1]/ul[1]/li[8]/a[1]")).click();
-		driver.findElement(By.id("txtuserid")).sendKeys("test190324@yopmail.com");
+		driver.findElement(By.id("txtuserid")).sendKeys("vardhaman13@yopmail.com");
 		Thread.sleep(3000);
-		driver.findElement(By.id("txtpassword")).sendKeys("test190324");
+		driver.findElement(By.id("txtpassword")).sendKeys("vardhaman13");
 		Thread.sleep(3000);
 		driver.findElement(By.id("loginbtn")).click();		
 	    Thread.sleep(3000);

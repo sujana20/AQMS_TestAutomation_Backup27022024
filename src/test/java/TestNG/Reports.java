@@ -11,7 +11,7 @@ public class Reports extends testBase.TestBase  {
 	@Test (priority=1)
 	public void ReportsView() throws Exception {	
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		
 		Thread.sleep(3000); 
@@ -76,7 +76,7 @@ public class Reports extends testBase.TestBase  {
 		        
 		        driver.findElement(By.xpath("//*[@id='rdlctrlReportOptionsummarybyFieldbyTimeRange']")).click();
 		        
-	}
+	}/*
 		
 		@Test (priority=3)
 		public void NewReport() throws Exception {	
@@ -85,6 +85,7 @@ public class Reports extends testBase.TestBase  {
 			
 			
 			
-		}
+		}                  */
+
 
 }

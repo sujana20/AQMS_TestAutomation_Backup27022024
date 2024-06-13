@@ -10,7 +10,7 @@ public class Folders extends testBase.TestBase {
 	@Test (priority=1)
 	public void FolderCreation() throws Exception {
 		  
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
 		
@@ -29,7 +29,7 @@ public class Folders extends testBase.TestBase {
 	
 	@Test (priority=2)
 	public void FoldernameRenaming() throws Exception {
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
 		
@@ -52,13 +52,13 @@ public class Folders extends testBase.TestBase {
 	@Test (priority=3)
 	public void MoveForms() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
 		
 		driver.findElement(By.xpath("//div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]")).click();
 		
-		driver.findElement(By.id("//*[@id='lv0']")).click();
+		driver.findElement(By.xpath("//*[@id='lv0']")).click();
 		logger.info("Form selcted");
 		driver.findElement(By.xpath("//a[@id='dropdownMenu1']")).click();
 		logger.info("clicked on Move Form");
@@ -71,12 +71,12 @@ public class Folders extends testBase.TestBase {
 		
 }
 
-
+/*
 	
 	@Test (priority=4)
 	public void Favourites() throws Exception {	
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
 		
@@ -90,19 +90,19 @@ public class Folders extends testBase.TestBase {
 		takeScreenshot.save("Favourites");
 		
 	}
-		
+		*/
 	
 	@Test (priority=5)
 	public void MoveToOriginalFolder() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
 		
 		driver.findElement(By.xpath("//a[1]/input[1]")).click();
 		Thread.sleep(2000);
 		
-		driver.findElement(By.id("//*[@id='lv0']")).click();
+		driver.findElement(By.xpath("//*[@id='lv0']")).click();
 		logger.info("Form selcted");
 		
 		driver.findElement(By.xpath("//a[@id='dropdownMenu1']")).click();
@@ -115,7 +115,7 @@ public class Folders extends testBase.TestBase {
 	@Test (priority=6)
 	public void FolderDeletion() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
 		

@@ -11,7 +11,7 @@ public class User_Management extends testBase.TestBase {
 	@Test (priority=1)
 	public void formSettings() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		logger.info("Logged in Successfully");
 		
 		driver.findElement(By.xpath("//*[@id='headerDropdown']/a/span[1]")).click();

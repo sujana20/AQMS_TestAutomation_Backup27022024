@@ -16,7 +16,7 @@ public class Templates extends testBase.TestBase {
 		takeScreenshot.save("templates"); 
 		
 	   
-		WebElement categoriesOption = driver.findElement(By.linkText("//*[@href=\"/Templates/TemplatesList\"]"));
+		WebElement categoriesOption = driver.findElement(By.xpath("//div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"));
 
 		Actions action = new Actions(driver);
 		action.moveToElement(categoriesOption).build().perform();

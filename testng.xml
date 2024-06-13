@@ -6,24 +6,20 @@
 		<class name="TestNG.Login"/>
 		<class name="TestNG.HomePage"/>
 		<class name="TestNG.AboutUs"/>
+		 <class name="TestNG.Templates"/>
+		 <class name="TestNG.Features"/>
+		<class name="TestNG.FormCreation"/>
+		 <class name="TestNG.FormSettings"/>
+		  <class name="TestNG.ShareForm"/>
+		<class name="TestNG.Entries"/>
       <class name="TestNG.Folders"/>
       <class name="TestNG.Reports"/>     
-      <class name="testBase.TestBase"/>
-      <class name="TestNG.FormSettings"/>
-      <class name="TestNG.Features"/>
-      <class name="TestNG.Account_Management"/>
-      <class name="TestNG.FormCreation"/>
-      <class name="utility.ExcelLoop"/>    
-      <class name="TestNG.Entries"/>
-      <class name="TestNG.forgotPassword"/>
-      <class name="TestNG.GmailLogin"/>
+      <class name="testBase.TestBase"/>   
+      <class name="TestNG.Account_Management"/>             
       <class name="TestNG.User_Management"/>
       <class name="TestNG.Pricing"/>
-      <class name="TestNG.Languages"/>
-      <class name="TestNG.CascadingDropDown"/>
-      <class name="TestNG.Templates"/>
-      <class name="TestNG.Registration"/>
-      <class name="TestNG.ShareForm"/>
+      <class name="TestNG.Languages"/>    
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

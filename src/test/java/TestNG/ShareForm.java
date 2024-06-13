@@ -13,7 +13,7 @@ public class ShareForm extends testBase.TestBase {
 @Test (priority=1)
 	public void FormShareRedirection() throws Exception {	
 		
-	loginAs.qa("test190324@yopmail.com", "test190324");
+	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 	logger.info("Logged in Successfully");
 	Thread.sleep(4000); 
 	
@@ -94,7 +94,7 @@ public class ShareForm extends testBase.TestBase {
 	
 	WebElement email = driver.findElement(By.xpath("//*[@id='Mailidsvalidation']"));
 	email.click();
-	email.sendKeys("test190324@yopmail.com");
+	email.sendKeys("vardhaman13@yopmail.com");
 	logger.info("Email added");
 	
 	driver.findElement(By.xpath("//*[@id='BtnAddCCBCC']")).click();

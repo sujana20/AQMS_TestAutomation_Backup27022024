@@ -12,7 +12,7 @@ public class FormCreation extends testBase.TestBase{
 	
 @Test (priority=1)
 	public void CreateForm() throws Exception {	
-	loginAs.qa("test190324@yopmail.com", "test190324");
+	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 	//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 	logger.info("Logged in Successfully");
 	Thread.sleep(4000); 
@@ -120,7 +120,7 @@ public class FormCreation extends testBase.TestBase{
 	
 @Test (priority=2)
 public void FormView() throws Exception {		
-	loginAs.qa("test190324@yopmail.com", "test190324");
+	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 	//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 	logger.info("Logged in Successfully");
 	Thread.sleep(4000);
@@ -137,7 +137,7 @@ public void FormView() throws Exception {
 	@Test (priority=3)
 	public void AddThemes() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
@@ -157,7 +157,7 @@ public void FormView() throws Exception {
 	@Test (priority=4)
 	public void Themes_BodySection() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
@@ -188,7 +188,7 @@ public void FormView() throws Exception {
 	@Test (priority=5)
 	public void Themes_FormSection() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
@@ -296,7 +296,7 @@ public void FormView() throws Exception {
 	@Test (priority=5)
 	public void Themes_HeaderSection() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
@@ -545,7 +545,7 @@ public void FormView() throws Exception {
 	@Test (priority=6)
 	public void Themes_ContentSection() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
@@ -642,7 +642,7 @@ public void FormView() throws Exception {
 	@Test (priority=7)
 	public void Themes_FooterSection() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
@@ -724,7 +724,7 @@ public void FormView() throws Exception {
 	@Test (priority=8)
 	public void Themes_LabelStyles() throws Exception {
 		
-		loginAs.qa("test190324@yopmail.com", "test190324");
+		loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 		//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 		logger.info("Logged in Successfully");
 		Thread.sleep(4000);
@@ -799,7 +799,7 @@ public void FormView() throws Exception {
 	
 @Test (priority=9)
 public void FormDelete() throws Exception {		
-	loginAs.qa("test190324@yopmail.com", "test190324");
+	loginAs.qa("vardhaman13@yopmail.com", "vardhaman13");
 	//driver.findElement(By.xpath("//span[contains(text(),'test021')]")).click();
 	logger.info("Logged in Successfully");
 	Thread.sleep(4000);
