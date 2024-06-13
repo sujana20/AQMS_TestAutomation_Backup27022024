@@ -3333,3 +3333,14 @@
 2024-05-08 15:42:31,357 - Frame1 -INFO - Screenshot Taken
 2024-05-08 15:42:34,783 - Frame1 -INFO - Browser Closed
 2024-05-08 15:42:34,784 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-06-13 12:13:44,165 - Frame1 -INFO - Logger Started
+2024-06-13 12:13:51,688 - Frame1 -INFO - Chrome launched
+2024-06-13 12:13:52,410 - Frame1 -INFO - url Loaded
+2024-06-13 12:13:59,258 - Frame1 -INFO - maximized Browser window and added waits
+2024-06-13 12:13:59,947 - Frame1 -INFO - Screenshot Taken
+2024-06-13 12:14:17,556 - Frame1 -INFO - Video is visible
+2024-06-13 12:14:17,835 - Frame1 -INFO - Screenshot Taken
+2024-06-13 12:14:20,892 - Frame1 -INFO - Map visible
+2024-06-13 12:14:21,330 - Frame1 -INFO - Screenshot Taken
+2024-06-13 12:14:24,422 - Frame1 -INFO - Client names are visible
+2024-06-13 12:14:24,637 - Frame1 -INFO - Screenshot Taken
